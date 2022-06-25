@@ -5,6 +5,8 @@
 ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Apache](https://img.shields.io/badge/license-Apache-blue.svg)
 
+A fork of this [repo](https://github.com/emilk/egui/tree/master/egui-wgpu).
+
 This crates provides bindings between [`egui`](https://github.com/emilk/egui) and [wgpu](https://crates.io/crates/wgpu).
 
 This was originally hosted at https://github.com/hasenbanck/egui_wgpu_backend
